@@ -13,10 +13,10 @@ Internet banking, also known as online banking, e-banking or virtual banking, is
 4. Net banking provides a secure environment for conducting banking transactions.
 
 #Developers
-@MAMIDALA SAI MITHIN
-@VINOTH R 
-@STEPHEN A 
-@VARUN R 
+@Mamidala sai mithin
+@Vinoth kumar R
+@Stephen A
+@Varun kumar R
 
 
 
